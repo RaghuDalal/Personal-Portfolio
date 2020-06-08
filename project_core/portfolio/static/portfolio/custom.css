@@ -1,4 +1,7 @@
- 
+
+.description {
+    overflow: hidden;
+}
 .navbar-nav .nav-link {
     color: rgba(0,0,0,1) !important;
 }
